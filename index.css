@@ -451,7 +451,7 @@ header{
     }
 
     .project-container #project-4{
-        background-image: url('../images/projects/profile-share.webp');
+        background-image: url('');
     }
 
     .project-card:nth-child(even){
